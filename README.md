@@ -6,86 +6,85 @@
   Desenvolvedor focado em backend, APIs, segurança e automações.
 </p>
 
+---
+
 ## 👋 Sobre mim
 
 Eu sou o **CaioX**, desenvolvedor que curte criar **sistemas que realmente funcionam em produção**.  
 Trabalho principalmente com **Node.js**, APIs, segurança e bots de Discord.
 
-Gosto de entender **como as coisas quebram**, não só como funcionam — por isso tenho bastante foco em:
-- arquitetura
-- segurança
-- performance
-- automação
+Gosto de entender **como as coisas quebram**, não só como funcionam — por isso foco em:
+- arquitetura  
+- segurança  
+- performance  
+- automação  
 
 Nada de projeto genérico só pra enfeite.
 
-## 🧠 Stack que eu uso no dia a dia
+---
 
-### 🔹 Linguagens & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,nextjs,express" />
-</p>
+## ⚡ Tech Stack
 
-- **JavaScript / TypeScript**
-- **Node.js**
-- **React / React Native**
-- **Next.js**
-- **Express**
-- **Discord.js**
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br/>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br/>CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React Native</td>
+  </tr>
 
-### 🎨 Frontend & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,html,css" />
-</p>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" /><br/>Vue.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" /><br/>Webpack</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" /><br/>Bash</td>
+  </tr>
 
-- **Tailwind CSS**
-- **HTML5 / CSS3**
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" /><br/>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=puppeteer" /><br/>Puppeteer</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=discord" /><br/>Discord.js</td>
+  </tr>
+</table>
 
-### 🗄️ Banco de Dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
-</p>
-
-- **MongoDB**
-- **PostgreSQL**
-- **Redis**
-- **Prisma ORM**
-
-### ⚙️ Infra & Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
-- **Docker**
-- **Git**
-- **Linux**
-- **APIs REST**
-- **JWT / Auth / Segurança**
+---
 
 ## 🚀 O que você vai encontrar aqui
 
 - 🔐 **APIs seguras** (JWT, rate-limit, validações, anti-abuso)
 - 🤖 **Bots de Discord** (tickets, pagamentos, logs, automações)
-- 📊 **Ferramentas para devs** (visualização, monitoramento, utilitários)
-- 🧪 Projetos open-source com foco **educacional e prático**
+- 📊 **Ferramentas para devs** (monitoramento, utilitários, automações)
+- 🧪 Projetos open-source com foco **prático e educacional**
 
-Sempre tentando manter código organizado e README decente.
+Código organizado, arquitetura limpa e README que presta.
+
+---
 
 ## 🧩 Projetos em destaque
 
 ### 🔒 API Security Starter
-Boilerplate de API Node.js com foco em segurança:
-- autenticação bem feita
-- rate limit
-- proteção contra falhas comuns
-- estrutura pronta pra produção
+Boilerplate Node.js focado em produção:
+- autenticação segura  
+- rate limit  
+- proteção contra falhas comuns  
+- estrutura escalável  
 
 ### 🤖 Sistemas para Discord
-Bots mais completos, não só comando jogado:
-- tickets
-- pagamentos via PIX
-- logs
-- permissões bem definidas
+Bots completos:
+- tickets  
+- pagamentos via PIX  
+- logs  
+- permissões bem definidas  
+- automações reais  
+
+---
 
 ## 📈 GitHub
 
@@ -93,6 +92,8 @@ Bots mais completos, não só comando jogado:
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+---
 
 ## 🌐 Onde me encontrar
 
