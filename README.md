@@ -40,11 +40,11 @@ Nada de projeto genérico só pra enfeite.
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" /><br/>Vue.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=discord" /><br/>Discord.js</td>
   </tr>
