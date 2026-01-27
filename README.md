@@ -6,7 +6,6 @@
   Desenvolvedor focado em backend, APIs, segurança e automações.
 </p>
 
----
 
 ## 👋 Sobre mim
 
@@ -21,7 +20,6 @@ Gosto de entender **como as coisas quebram**, não só como funcionam — por is
 
 Nada de projeto genérico só pra enfeite.
 
----
 
 ## 🧠 Stack que eu uso no dia a dia
 
@@ -29,7 +27,6 @@ Nada de projeto genérico só pra enfeite.
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,prisma,postgres,redis,docker,git" />
 </p>
 
----
 
 ## 🚀 O que você vai encontrar aqui
 
@@ -40,8 +37,6 @@ Nada de projeto genérico só pra enfeite.
 
 Sempre tentando manter código organizado e README decente.
 
----
-
 ## 🧩 Projetos em destaque
 
 ### 🔒 API Security Starter
@@ -51,26 +46,12 @@ Boilerplate de API Node.js com foco em segurança:
 - proteção contra falhas comuns
 - estrutura pronta pra produção
 
----
-
 ### 🤖 Sistemas para Discord
 Bots mais completos, não só comando jogado:
 - tickets
 - pagamentos via PIX
 - logs
 - permissões bem definidas
-
----
-
-### 📊 Rate Limit Visualizer (em desenvolvimento)
-Ferramenta visual pra entender:
-- tráfego de API
-- ataques simulados
-- comportamento de rate limit em tempo real
-
-Projeto focado em **aprendizado**, não só visual bonito.
-
----
 
 ## 📈 GitHub
 
@@ -79,13 +60,11 @@ Projeto focado em **aprendizado**, não só visual bonito.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
 ## 🌐 Onde me encontrar
 
 - 🌍 Portfolio: https://port-caiox.vercel.app/
 - 💬 Discord: https://discord.com/users/1204440643271786560
-- 🧑‍💻 GitHub: https://github.com/CaioXDeveloper
+- 💻 GitHub: https://github.com/CaioXDeveloper
 
 ---
 
