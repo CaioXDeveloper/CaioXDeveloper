@@ -1,82 +1,94 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CaioX&fontSize=70&fontAlignY=38&color=0:1e1e2e,100:3a86ff" />
-👋 Fala, eu sou o CaioX
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header&text=CaioXDeveloper&fontSize=38&fontColor=ffffff" />
+</p>
 
-Sou desenvolvedor e curto criar sistemas reais, que resolvem problemas de verdade.
-Nada de projeto só pra encher portfólio — aqui é código que funciona, escala e faz sentido.
+<p align="center">
+  Desenvolvedor focado em backend, APIs, segurança e automações.
+</p>
 
-Comecei cedo na programação e hoje trabalho principalmente com JavaScript / TypeScript, focando em bots, APIs, painéis web e automações.
+---
 
-🚀 O que eu curto construir
+## 👋 Sobre mim
 
-Bots de Discord avançados (tickets, pagamentos, logs, automações)
+Eu sou o **CaioX**, desenvolvedor que curte criar **sistemas que realmente funcionam em produção**.  
+Trabalho principalmente com **Node.js**, APIs, segurança e bots de Discord.
 
-APIs REST seguras (JWT, permissões, validações reais)
+Gosto de entender **como as coisas quebram**, não só como funcionam — por isso tenho bastante foco em:
+- arquitetura
+- segurança
+- performance
+- automação
 
-Sistemas com login (Discord OAuth, tokens, sessões)
+Nada de projeto genérico só pra enfeite.
 
-Painéis web modernos e funcionais
+---
 
-Ferramentas que ajudam outros devs no dia a dia
+## 🧠 Stack que eu uso no dia a dia
 
-Sempre com foco em:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,prisma,postgres,redis,docker,git" />
+</p>
 
-organização
+---
 
-segurança
+## 🚀 O que você vai encontrar aqui
 
-desempenho
+- 🔐 **APIs seguras** (JWT, rate-limit, validações, anti-abuso)
+- 🤖 **Bots de Discord** (tickets, pagamentos, logs, automações)
+- 📊 **Ferramentas para devs** (visualização, monitoramento, utilitários)
+- 🧪 Projetos open-source com foco **educacional e prático**
 
-código limpo e manutenível
+Sempre tentando manter código organizado e README decente.
 
-🧠 Linguagens e tecnologias que eu uso
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-Banco de dados
-<img src="https://skillicons.dev/icons?i=postgresql,prisma" />
-Outros
-<img src="https://skillicons.dev/icons?i=docker,git" />
+---
 
-Também trabalho bastante com:
+## 🧩 Projetos em destaque
 
-Discord.js v14
+### 🔒 API Security Starter
+Boilerplate de API Node.js com foco em segurança:
+- autenticação bem feita
+- rate limit
+- proteção contra falhas comuns
+- estrutura pronta pra produção
 
-Integrações com APIs externas
+---
 
-Sistemas de pagamento (Pix, Stripe, Asaas)
+### 🤖 Sistemas para Discord
+Bots mais completos, não só comando jogado:
+- tickets
+- pagamentos via PIX
+- logs
+- permissões bem definidas
 
-Segurança de aplicações (IDOR, autenticação, autorização)
+---
 
-🛠️ Experiência com projetos
+### 📊 Rate Limit Visualizer (em desenvolvimento)
+Ferramenta visual pra entender:
+- tráfego de API
+- ataques simulados
+- comportamento de rate limit em tempo real
 
-Sistemas de pagamento automáticos em bots de Discord
+Projeto focado em **aprendizado**, não só visual bonito.
 
-Sistema de tickets completo (texto + voz + staff)
+---
 
-Hospedagem de bots e sites com API própria
+## 📈 GitHub
 
-Login via Discord com controle de acesso
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-Logs automáticos, cargos dinâmicos e antifraude
+---
 
-Ferramentas internas para automação e gerenciamento
+## 🌐 Onde me encontrar
 
-Grande parte dos meus projetos nasce de problemas reais, não de tutorial.
+- 🌍 Portfolio: https://port-caiox.vercel.app/
+- 💬 Discord: https://discord.com/users/1204440643271786560
+- 🧑‍💻 GitHub: https://github.com/CaioXDeveloper
 
-🌐 Onde me encontrar
+---
 
-🌎 Portfólio: https://port-caiox.vercel.app
-
-💻 GitHub: https://github.com/CaioXDeveloper
-
-💬 Discord: https://discord.com/users/1204440643271786560
-
-Se quiser trocar ideia, colaborar ou só conversar sobre código, chama no Discord.
-
-⚡ Observação final
-
-Curto aprender, testar ideias novas e sair do comum.
-Se você gosta de projetos com propósito e código bem pensado, fica à vontade pra explorar os repositórios.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3a86ff,100:1e1e2e" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=110&section=footer" />
+</p>
