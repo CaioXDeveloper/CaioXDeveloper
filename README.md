@@ -1,71 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2F81F7&height=140&section=header&text=CaioXDeveloper&fontSize=34&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-  Dev focado em backend, APIs, bots de Discord e sistemas que funcionam de verdade.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+o+CaioX+%F0%9F%91%8B;Desenvolvedor+Fullstack;Backend%2C+APIs+e+Automa%C3%A7%C3%B5es;Construindo+sistemas+que+funcionam+de+verdade)](https://git.io/typing-svg)
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👋 Sobre mim
+</div>
 
-Sou o **CaioX**.
 
-Trabalho principalmente com **Node.js**, APIs e automações.  
-A maioria dos meus projetos vem de problemas reais que eu precisei resolver
-ou que vi outras pessoas passando.
+const caioX = {
+  location: "Brasil 🇧🇷",
+  foco: "Backend, APIs, automações e sistemas bem estruturados",
+  interesses: [
+    "arquitetura",
+    "segurança de aplicações",
+    "pagamentos",
+    "bots de Discord",
+    "ferramentas para devs"
+  ],
+  mentalidade: "menos hype, mais código que funciona"
+};
+<br> <div align="center">
+⚡ Stack que eu uso
+<table> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br>TypeScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="48" /><br>React </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>Next.js </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=express" width="48" /><br>Express </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=prisma" width="48" /><br>Prisma </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>PostgreSQL </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" /><br>MySQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=redis" width="48" /><br>Redis </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="48" /><br>Docker </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=discord" width="48" /><br>Discord.js </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="48" /><br>Puppeteer </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nginx" width="48" /><br>Nginx </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vercel" width="48" /><br>Vercel </td> </tr> </table> </div> <br> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <br> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </picture>
+<br><br>
 
-Não curto projeto só pra “ficar bonito”.  
-Prefiro coisa prática, organizada e que realmente dê pra usar.
 
-<br/>
+<br><br>
 
-## 🧠 Tecnologias que eu uso
+"Código bom não precisa de muito marketing."
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,prisma,postgres,git" />
-</p>
-
-<br/>
-
-## 📂 O que tem nesse GitHub
-
-- APIs com autenticação, validação e rate limit  
-- Bots de Discord mais completos (ticket, logs, automações, pagamentos)  
-- Ferramentas open-source focadas em aprendizado prático  
-- Projetos em desenvolvimento e testes de ideias  
-
-Tudo pensado pra uso real, não só portfólio.
-
-<br/>
-
-## 🚧 Projeto atual
-
-**Rate Limit Visualizer**
-
-Ferramenta web pra visualizar tráfego de API, simular ataques
-e entender como rate limit funciona na prática.
-
-Projeto com foco educacional, mas feito pra ser útil de verdade.
-
-<br/>
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<br/>
-
-## 🔗 Links
-
-- Portfolio: https://port-caiox.vercel.app/  
-- Discord: https://discord.com/users/1204440643271786560  
-- GitHub: https://github.com/CaioXDeveloper  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2F81F7&height=100&section=footer" />
-</p>
+</div> 
