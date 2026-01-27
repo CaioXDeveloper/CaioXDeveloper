@@ -1,94 +1,71 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header&text=CaioXDeveloper&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2F81F7&height=140&section=header&text=CaioXDeveloper&fontSize=34&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  Desenvolvedor focado em backend, APIs, segurança e automações.
+  Dev focado em backend, APIs, bots de Discord e sistemas que funcionam de verdade.
 </p>
 
----
+<br/>
 
 ## 👋 Sobre mim
 
-Eu sou o **CaioX**, desenvolvedor que curte criar **sistemas que realmente funcionam em produção**.  
-Trabalho principalmente com **Node.js**, APIs, segurança e bots de Discord.
+Sou o **CaioX**.
 
-Gosto de entender **como as coisas quebram**, não só como funcionam — por isso tenho bastante foco em:
-- arquitetura
-- segurança
-- performance
-- automação
+Trabalho principalmente com **Node.js**, APIs e automações.  
+A maioria dos meus projetos vem de problemas reais que eu precisei resolver
+ou que vi outras pessoas passando.
 
-Nada de projeto genérico só pra enfeite.
+Não curto projeto só pra “ficar bonito”.  
+Prefiro coisa prática, organizada e que realmente dê pra usar.
 
----
+<br/>
 
-## 🧠 Stack que eu uso no dia a dia
+## 🧠 Tecnologias que eu uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,prisma,postgres,redis,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,prisma,postgres,git" />
 </p>
 
----
+<br/>
 
-## 🚀 O que você vai encontrar aqui
+## 📂 O que tem nesse GitHub
 
-- 🔐 **APIs seguras** (JWT, rate-limit, validações, anti-abuso)
-- 🤖 **Bots de Discord** (tickets, pagamentos, logs, automações)
-- 📊 **Ferramentas para devs** (visualização, monitoramento, utilitários)
-- 🧪 Projetos open-source com foco **educacional e prático**
+- APIs com autenticação, validação e rate limit  
+- Bots de Discord mais completos (ticket, logs, automações, pagamentos)  
+- Ferramentas open-source focadas em aprendizado prático  
+- Projetos em desenvolvimento e testes de ideias  
 
-Sempre tentando manter código organizado e README decente.
+Tudo pensado pra uso real, não só portfólio.
 
----
+<br/>
 
-## 🧩 Projetos em destaque
+## 🚧 Projeto atual
 
-### 🔒 API Security Starter
-Boilerplate de API Node.js com foco em segurança:
-- autenticação bem feita
-- rate limit
-- proteção contra falhas comuns
-- estrutura pronta pra produção
+**Rate Limit Visualizer**
 
----
+Ferramenta web pra visualizar tráfego de API, simular ataques
+e entender como rate limit funciona na prática.
 
-### 🤖 Sistemas para Discord
-Bots mais completos, não só comando jogado:
-- tickets
-- pagamentos via PIX
-- logs
-- permissões bem definidas
+Projeto com foco educacional, mas feito pra ser útil de verdade.
 
----
+<br/>
 
-### 📊 Rate Limit Visualizer (em desenvolvimento)
-Ferramenta visual pra entender:
-- tráfego de API
-- ataques simulados
-- comportamento de rate limit em tempo real
-
-Projeto focado em **aprendizado**, não só visual bonito.
-
----
-
-## 📈 GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
+<br/>
 
-## 🌐 Onde me encontrar
+## 🔗 Links
 
-- 🌍 Portfolio: https://port-caiox.vercel.app/
-- 💬 Discord: https://discord.com/users/1204440643271786560
-- 🧑‍💻 GitHub: https://github.com/CaioXDeveloper
-
----
+- Portfolio: https://port-caiox.vercel.app/  
+- Discord: https://discord.com/users/1204440643271786560  
+- GitHub: https://github.com/CaioXDeveloper  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2F81F7&height=100&section=footer" />
 </p>
