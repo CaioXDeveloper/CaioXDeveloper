@@ -6,7 +6,6 @@
   Desenvolvedor focado em backend, APIs, segurança e automações.
 </p>
 
-
 ## 👋 Sobre mim
 
 Eu sou o **CaioX**, desenvolvedor que curte criar **sistemas que realmente funcionam em produção**.  
@@ -20,13 +19,48 @@ Gosto de entender **como as coisas quebram**, não só como funcionam — por is
 
 Nada de projeto genérico só pra enfeite.
 
-
 ## 🧠 Stack que eu uso no dia a dia
 
+### 🔹 Linguagens & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,express,prisma,postgres,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,nextjs,express" />
 </p>
 
+- **JavaScript / TypeScript**
+- **Node.js**
+- **React / React Native**
+- **Next.js**
+- **Express**
+- **Discord.js**
+
+### 🎨 Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css" />
+</p>
+
+- **Tailwind CSS**
+- **HTML5 / CSS3**
+
+### 🗄️ Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+</p>
+
+- **MongoDB**
+- **PostgreSQL**
+- **Redis**
+- **Prisma ORM**
+
+### ⚙️ Infra & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
+- **Docker**
+- **Git**
+- **Linux**
+- **APIs REST**
+- **JWT / Auth / Segurança**
 
 ## 🚀 O que você vai encontrar aqui
 
