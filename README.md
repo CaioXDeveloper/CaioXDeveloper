@@ -30,7 +30,7 @@ I build **B2B SaaS** and internal systems that help companies:
 | Metric | Value |
 |--------|-------|
 | **APIs in Production** | 5+ |
-| **GitHub Contributions** | 143+ (last year) |
+| **GitHub Contributions** | 145+ (last year) |
 | **Tech Stack Skills** | 12+ |
 | **Backend Frameworks** | 2 (Fastify + FastAPI) |
 | **Database Experience** | PostgreSQL, MongoDB, Redis |
