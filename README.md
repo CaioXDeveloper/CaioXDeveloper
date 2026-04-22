@@ -1,27 +1,27 @@
 ## 🇺🇸 EN
 
 [![GitHub followers](https://img.shields.io/github/followers/CaioXDeveloper?style=social)](https://github.com/CaioXDeveloper)
-[![GitHub Repo stars](https://img.shields.io/github/stars/CaioXDeveloper/Currency-API?style=social)](https://github.com/CaioXDeveloper)
+[![GitHub Repo stars](https://img.shields.io/github/stars/CaioXDeveloper/AXIS-Commerce?style=social)](https://github.com/CaioXDeveloper)
 
 ## 🚀 Value proposition
 
-I'm **CaioX**, a backend developer focused on **production-grade APIs** and **business automation**.  
-I build **B2B SaaS** and internal systems that help companies:
+I'm **CaioX**, a **Full Stack Developer** focused on **high-end user experiences** and **production-grade architecture**.  
+I build **end-to-end digital products** and B2B SaaS that combine premium aesthetics with robust engineering:
 
-- ⚡ reduce manual operations by **60-80%**
-- 📋 standardize critical workflows with automation
-- 📊 improve operational predictability and data accuracy
-- 🔒 scale with secure, modular architecture
+- 🎨 transform complex requirements into **stunning, high-conversion interfaces**
+- ⚡ reduce manual operations by **60-80%** through full-stack automation
+- 🔒 scale with **secure, modular architecture** from DB to Frontend
+- 📊 deliver **production-ready systems** that are fast, accessible, and scalable
 
 ---
 
 ## 🧠 Core strengths
 
+- **Frontend Excellence**: Next.js 14 (App Router), React, Framer Motion (premium animations), Tailwind CSS
 - **Production APIs**: Node.js/Fastify + Python/FastAPI (deployed & stable)
 - **Security-first**: JWT httpOnly, CSRF, RBAC, input validation, API hardening
-- **High Performance**: Redis caching, smart fallback strategies, optimized responses
-- **Scalable Design**: Modular architecture, containerized (Docker), cloud-ready
-- **DevOps Ready**: CI/CD pipelines, CodeQL scanning, automated testing
+- **High Performance**: Lenis smooth scroll, Redis caching, sub-100ms response times
+- **DevOps Ready**: CI/CD pipelines, CodeQL scanning, Docker containerization
 
 ---
 
@@ -29,44 +29,22 @@ I build **B2B SaaS** and internal systems that help companies:
 
 | Metric | Value |
 |--------|-------|
-| **APIs in Production** | 5+ |
-| **GitHub Contributions** | 145+ (last year) |
-| **Tech Stack Skills** | 12+ |
-| **Backend Frameworks** | 2 (Fastify + FastAPI) |
+| **Full-Stack Projects** | 6+ |
+| **GitHub Contributions** | 150+ (last year) |
+| **Tech Stack Skills** | 15+ |
+| **Primary Frameworks** | Next.js, Fastify, FastAPI |
 | **Database Experience** | PostgreSQL, MongoDB, Redis |
 
 ---
 
 ## 🧩 Projects that prove this
 
-### 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API)
-**Public currency conversion API** | FastAPI + Redis + Provider Fallback  
-✅ High availability (99.9% uptime target)  
-✅ Sub-100ms response times with caching  
-✅ Automatic provider fallback for reliability  
-**Use case:** Financial integrations, trading platforms, multi-currency apps
-
-### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
-**Production-ready SaaS backend template** | TypeScript + Fastify + CodeQL  
-✅ CSRF protection built-in  
-✅ Role-based access control (RBAC) configured  
-✅ JWT httpOnly cookies (secure by default)  
-✅ CI/CD pipeline with automated security scanning  
-**Use case:** Accelerate SaaS product launches, reduce security debt
-
-### 🛒 [Terabyte-Deals-Api](https://github.com/CaioXDeveloper/Terabyte-Deals-Api)
-**Real-time deals scraper & API** | Python + FastAPI + Live Data  
-✅ Live web scraping automation  
-✅ Structured JSON output for workflows  
-✅ Captures real-time marketplace opportunities  
-**Use case:** Competitive pricing monitoring, automated deal capture for ops teams
-
-### 🔔 [pwa-push-sales](https://github.com/CaioXDeveloper/pwa-push-sales)
-**Web push notification system** | Node/Express + PWA + Real-time messaging  
-✅ Progressive Web App architecture  
-✅ Real-time push subscriptions  
-✅ Modular frontend for easy scaling  
-**Use case:** Team alerts, sales notifications, operational communication
+### 👟 [AXIS-Commerce](https://github.com/CaioXDeveloper/AXIS-Commerce)
+**High-end Sneaker Store** | Next.js 14 + Framer Motion + Zustand + Tailwind  
+✅ **Premium UX**: Custom cursors, smooth scroll (Lenis), and complex animations  
+✅ **Full-stack**: Real-time cart management, filtering, and responsive design  
+✅ **Clean Code**: Strict TypeScript, modular components, and optimized assets  
+**Use case:** Premium retail, high-conversion storefronts, luxury brands
 
 ### 🚨 [fraud-signals-api](https://github.com/CaioXDeveloper/fraud-signals-api)
 **Real-time fraud scoring engine** | Fastify + TypeScript + PostgreSQL + Redis  
@@ -75,25 +53,45 @@ I build **B2B SaaS** and internal systems that help companies:
 ✅ Production-grade security hardening  
 **Use case:** Payment processing, user verification, risk assessment
 
+### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
+**Production-ready SaaS backend template** | TypeScript + Fastify + CodeQL  
+✅ CSRF protection & RBAC built-in  
+✅ JWT httpOnly cookies (secure by default)  
+✅ CI/CD pipeline with automated security scanning  
+**Use case:** Accelerate SaaS product launches, reduce security debt
+
+### 🔔 [pwa-push-sales](https://github.com/CaioXDeveloper/pwa-push-sales)
+**Web push notification system** | Node/Express + PWA + Real-time messaging  
+✅ Progressive Web App architecture  
+✅ Real-time push subscriptions  
+✅ Integrated frontend for subscription management  
+**Use case:** Team alerts, sales notifications, operational communication
+
+### 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API)
+**Public currency conversion API** | FastAPI + Redis + Provider Fallback  
+✅ High availability & sub-100ms response times  
+✅ Automatic provider fallback for reliability  
+**Use case:** Financial integrations, multi-currency apps
+
 ---
 
 ## ⚙️ Stack
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastify" /><br/>Fastify</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br/>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br/>FastAPI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" /><br/>Redis</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br/>Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /><br/>GitHub Actions</td>
   </tr>
 </table>
@@ -102,10 +100,10 @@ I build **B2B SaaS** and internal systems that help companies:
 
 ## 💼 Open to
 
-- 🤝 **Freelance & Consulting**: Backend architecture reviews, API builds
-- 🏢 **B2B SaaS**: API design, scalable systems, business automation
-- ⚙️ **Operational Automation**: Workflow automation, data pipelines
-- 💼 **Backend Engineer Roles**: Remote, PJ, CLT opportunities
+- 🤝 **Freelance & Consulting**: Full-stack builds, UI/UX refactoring
+- 🏢 **B2B SaaS**: End-to-end product design and engineering
+- ⚙️ **Operational Automation**: Full-stack workflow solutions
+- 💼 **Full Stack / Backend Roles**: Remote, PJ, CLT opportunities
 
 ---
 
@@ -136,6 +134,6 @@ I build **B2B SaaS** and internal systems that help companies:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20SaaS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Premium%20UX-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Brazil-yellow?style=flat-square" />
 </p>
