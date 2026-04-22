@@ -1,23 +1,34 @@
 ## 🇺🇸 EN
 
 [![GitHub followers](https://img.shields.io/github/followers/CaioXDeveloper?style=social)](https://github.com/CaioXDeveloper)
-[![GitHub Repo stars](https://img.shields.io/github/stars/CaioXDeveloper/AXIS-Commerce?style=social)](https://github.com/CaioXDeveloper)
 
 ## 🚀 Value proposition
 
 I'm **CaioX**, a **Full Stack Developer** focused on **high-end user experiences** and **production-grade architecture**.  
-I build **end-to-end digital products** and B2B SaaS that combine premium aesthetics with robust engineering:
+I build **end-to-end digital products** and B2B SaaS that combine premium aesthetics with robust engineering.
 
 - 🎨 transform complex requirements into **stunning, high-conversion interfaces**
 - ⚡ reduce manual operations by **60-80%** through full-stack automation
 - 🔒 scale with **secure, modular architecture** from DB to Frontend
-- 📊 deliver **production-ready systems** that are fast, accessible, and scalable
 
 ---
 
-## 🧠 Core strengths
+## 🇧🇷 PT-BR
 
-- **Frontend Excellence**: Next.js 14 (App Router), React, Framer Motion (premium animations), Tailwind CSS
+## 🚀 Proposta de valor
+
+Sou o **CaioX**, um **Desenvolvedor Full Stack** focado em **experiências de usuário de alto nível** (UX) e **arquitetura de nível produção**.  
+Construo **produtos digitais ponta a ponta** e SaaS B2B que combinam estética premium com engenharia robusta.
+
+- 🎨 transformo requisitos complexos em **interfaces deslumbrantes e de alta conversão**
+- ⚡ reduzo operações manuais em **60-80%** através de automação full-stack
+- 🔒 escala com **arquitetura modular e segura** do Banco de Dados ao Frontend
+
+---
+
+## 🧠 Core strengths | Principais competências
+
+- **Frontend Excellence**: Next.js 14, React, Framer Motion (premium animations), Tailwind CSS
 - **Production APIs**: Node.js/Fastify + Python/FastAPI (deployed & stable)
 - **Security-first**: JWT httpOnly, CSRF, RBAC, input validation, API hardening
 - **High Performance**: Lenis smooth scroll, Redis caching, sub-100ms response times
@@ -25,9 +36,9 @@ I build **end-to-end digital products** and B2B SaaS that combine premium aesthe
 
 ---
 
-## 📊 By the numbers
+## 📊 By the numbers | Em números
 
-| Metric | Value |
+| Metric | Value / Valor |
 |--------|-------|
 | **Full-Stack Projects** | 6+ |
 | **GitHub Contributions** | 150+ (last year) |
@@ -37,41 +48,27 @@ I build **end-to-end digital products** and B2B SaaS that combine premium aesthe
 
 ---
 
-## 🧩 Projects that prove this
+## 🧩 Projects | Projetos
 
 ### 👟 [AXIS-Commerce](https://github.com/CaioXDeveloper/AXIS-Commerce)
 **High-end Sneaker Store** | Next.js 14 + Framer Motion + Zustand + Tailwind  
 ✅ **Premium UX**: Custom cursors, smooth scroll (Lenis), and complex animations  
 ✅ **Full-stack**: Real-time cart management, filtering, and responsive design  
-✅ **Clean Code**: Strict TypeScript, modular components, and optimized assets  
-**Use case:** Premium retail, high-conversion storefronts, luxury brands
+**PT:** Loja de sneakers de luxo com foco em UX premium, animações fluidas e arquitetura moderna.
 
 ### 🚨 [fraud-signals-api](https://github.com/CaioXDeveloper/fraud-signals-api)
 **Real-time fraud scoring engine** | Fastify + TypeScript + PostgreSQL + Redis  
-✅ Dual authentication (JWT + API keys)  
-✅ Sub-50ms scoring response time  
-✅ Production-grade security hardening  
-**Use case:** Payment processing, user verification, risk assessment
+✅ Dual authentication (JWT + API keys) | ✅ Sub-50ms scoring response time  
+**PT:** Engine de score de fraude em tempo real com alta performance e segurança reforçada.
 
 ### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
 **Production-ready SaaS backend template** | TypeScript + Fastify + CodeQL  
-✅ CSRF protection & RBAC built-in  
-✅ JWT httpOnly cookies (secure by default)  
-✅ CI/CD pipeline with automated security scanning  
-**Use case:** Accelerate SaaS product launches, reduce security debt
+✅ CSRF, RBAC, and JWT httpOnly cookies | ✅ CI/CD with security scanning  
+**PT:** Template para SaaS focado em segurança máxima e deploy rápido.
 
 ### 🔔 [pwa-push-sales](https://github.com/CaioXDeveloper/pwa-push-sales)
 **Web push notification system** | Node/Express + PWA + Real-time messaging  
-✅ Progressive Web App architecture  
-✅ Real-time push subscriptions  
-✅ Integrated frontend for subscription management  
-**Use case:** Team alerts, sales notifications, operational communication
-
-### 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API)
-**Public currency conversion API** | FastAPI + Redis + Provider Fallback  
-✅ High availability & sub-100ms response times  
-✅ Automatic provider fallback for reliability  
-**Use case:** Financial integrations, multi-currency apps
+**PT:** Sistema de notificações push em tempo real com arquitetura PWA.
 
 ---
 
@@ -98,15 +95,6 @@ I build **end-to-end digital products** and B2B SaaS that combine premium aesthe
 
 ---
 
-## 💼 Open to
-
-- 🤝 **Freelance & Consulting**: Full-stack builds, UI/UX refactoring
-- 🏢 **B2B SaaS**: End-to-end product design and engineering
-- ⚙️ **Operational Automation**: Full-stack workflow solutions
-- 💼 **Full Stack / Backend Roles**: Remote, PJ, CLT opportunities
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -116,11 +104,11 @@ I build **end-to-end digital products** and B2B SaaS that combine premium aesthe
 
 ---
 
-## 🌐 Let's connect
+## 🌐 Let's connect | Vamos conversar
 
 <div align="center">
 
-**🌍 [View Full Portfolio](https://port-caiox.vercel.app/)** — Live projects, case studies, and detailed work samples
+**🌍 [View Full Portfolio](https://port-caiox.vercel.app/)**
 
 | Platform | Link |
 |----------|------|
