@@ -1,61 +1,45 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header&text=CaioXDeveloper&fontSize=38&fontColor=ffffff" />
-</p>
+## 🇺🇸 EN
 
-<p align="center">
-  <b>Backend Engineer • APIs Seguras • SaaS B2B • Automações</b><br/>
-  Eu construo sistemas que reduzem custo operacional e escalam negócio.
-</p>
+## 🚀 Value proposition
 
-<p align="center">
-  <a href="#-pt-br">🇧🇷 PT-BR</a> •
-  <a href="#-en">🇺🇸 EN</a>
-</p>
+I’m **CaioX**, a backend developer focused on production-grade APIs and business automation.  
+I build **B2B SaaS** and internal systems that help companies:
+
+- reduce manual operations
+- standardize critical workflows
+- improve operational predictability
+- scale with secure architecture
 
 ---
 
-## 🇧🇷 PT-BR
+## 🧠 Core strengths
 
-## 🚀 Proposta de valor
-
-Sou o **CaioX**, desenvolvedor focado em backend e arquitetura de APIs para produtos reais.  
-Atuo com **SaaS B2B**, sistemas internos e automações que ajudam empresas a:
-
-- diminuir tarefas manuais
-- padronizar processos críticos
-- ganhar previsibilidade operacional
-- escalar com segurança
+- Production APIs with **Node.js/Fastify** and **Python/FastAPI**
+- Security-first approach: **JWT httpOnly, CSRF, RBAC, validation, hardening**
+- Performance with **Redis caching**, provider fallback, and response optimization
+- Modular architecture for long-term maintainability
+- CI/CD and code quality pipelines
 
 ---
 
-## 🧠 Especialidades
-
-- APIs para produção com **Node.js/Fastify** e **Python/FastAPI**
-- Segurança aplicada: **JWT httpOnly, CSRF, RBAC, validação, hardening**
-- Performance: cache com **Redis**, fallback de provedores, otimização de resposta
-- Arquitetura modular para manutenção e evolução contínua
-- CI/CD e qualidade com pipelines e análise estática
-
----
-
-## 🧩 Projetos que demonstram isso
+## 🧩 Projects that prove this
 
 ### 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API)
-API pública de conversão de moedas com FastAPI, cache (Redis/memória), histórico e fallback automático de provedores.  
-**Valor de negócio:** alta disponibilidade e resposta rápida para integrações financeiras.
+Public currency conversion API with FastAPI, Redis/in-memory cache, historical data, and provider fallback.  
+**Business value:** high availability and fast response time for financial integrations.
 
 ### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
-Template backend com foco em segurança para acelerar novos produtos SaaS.  
-Inclui CSRF, RBAC, JWT httpOnly, validação e pipeline CI com CodeQL.  
-**Valor de negócio:** reduz risco técnico e acelera time-to-market.
+Security-focused backend starter template for SaaS products.  
+Includes CSRF, RBAC, JWT httpOnly, validation, and CI pipeline with CodeQL.  
+**Business value:** reduces technical risk and speeds up time-to-market.
 
 ### 🛒 [Terabyte-Deals-Api](https://github.com/CaioXDeveloper/Terabyte-Deals-Api)
-API de promoções com scraping ao vivo e saída JSON para automações.  
-**Valor de negócio:** captura de oportunidades em tempo real para operação/comercial.
+Deals API with live scraping and JSON output for automation workflows.  
+**Business value:** captures real-time opportunities for operations and sales teams.
 
-### 🔔 [pwa-push-vendas](https://github.com/CaioXDeveloper/pwa-push-sales)
-PWA de notificações push com backend Node/Express e frontend modular.  
-**Valor de negócio:** melhora comunicação operacional e velocidade de ação da equipe.
+### 🔔 [pwa-push-sales](https://github.com/CaioXDeveloper/pwa-push-sales)
+Push notification PWA with Node/Express backend and modular frontend architecture.  
+**Business value:** improves operational communication and team response speed.
 
 ---
 
@@ -82,12 +66,12 @@ PWA de notificações push com backend Node/Express e frontend modular.
 
 ---
 
-## 🤝 Aberto para
+## 🤝 Open to
 
-- Freelance e consultoria backend
-- Construção/reestruturação de APIs de SaaS
-- Automações para operação e atendimento
-- Oportunidades CLT/PJ (backend engineer)
+- Freelance and backend consulting
+- B2B SaaS API architecture/build
+- Operational automation systems
+- Backend engineer opportunities (remote/PJ/CLT)
 
 ---
 
@@ -100,43 +84,8 @@ PWA de notificações push com backend Node/Express e frontend modular.
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
 - 🌍 Portfolio: https://port-caiox.vercel.app/
 - 💬 Discord: https://discord.com/users/1204440643271786560
 - 💻 GitHub: https://github.com/CaioXDeveloper
-
----
-
-## 🇺🇸 EN
-
-## 🚀 Value proposition
-
-I’m **CaioX**, a backend developer focused on production-grade APIs and business automation.  
-I work on **B2B SaaS** and internal platforms to help companies:
-
-- reduce manual operations
-- standardize critical workflows
-- improve operational predictability
-- scale with secure architecture
-
-## 🧠 Core strengths
-
-- Production APIs with **Node.js/Fastify** and **Python/FastAPI**
-- Security-first approach: **JWT httpOnly, CSRF, RBAC, validation, hardening**
-- Performance with **Redis caching**, provider fallback, and response optimization
-- Modular architecture for long-term maintainability
-- CI/CD and code quality pipelines
-
-## 🤝 Open to
-
-- Freelance and backend consulting
-- B2B SaaS API architecture/build
-- Operational automation systems
-- Backend engineer opportunities (remote/PJ/CLT)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=110&section=footer" />
-</p>
