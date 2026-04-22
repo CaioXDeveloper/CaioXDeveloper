@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Desenvolvedor focado em backend, APIs, segurança e automações.<br/>
-  Backend-focused developer building secure APIs, automation tools, and production-ready systems.
+  <b>Backend Engineer • APIs Seguras • SaaS B2B • Automações</b><br/>
+  Eu construo sistemas que reduzem custo operacional e escalam negócio.
 </p>
 
 <p align="center">
@@ -16,30 +16,59 @@
 
 ## 🇧🇷 PT-BR
 
-## 👋 Sobre mim
+## 🚀 Proposta de valor
 
-Sou o **CaioX**, desenvolvedor com foco em **Node.js, Fastify, Python/FastAPI, segurança e automações**.
+Sou o **CaioX**, desenvolvedor focado em backend e arquitetura de APIs para produtos reais.  
+Atuo com **SaaS B2B**, sistemas internos e automações que ajudam empresas a:
 
-Já trabalhei em **projetos SaaS B2B**, APIs e sistemas internos com foco em:
-- arquitetura limpa e escalável
-- segurança desde a base (JWT, CSRF, RBAC, hardening)
-- performance e observabilidade
-- automação de fluxos de negócio
-
-Curto construir software que resolve problema real — não só projeto de vitrine.
+- diminuir tarefas manuais
+- padronizar processos críticos
+- ganhar previsibilidade operacional
+- escalar com segurança
 
 ---
 
-## ⚡ Stack principal
+## 🧠 Especialidades
+
+- APIs para produção com **Node.js/Fastify** e **Python/FastAPI**
+- Segurança aplicada: **JWT httpOnly, CSRF, RBAC, validação, hardening**
+- Performance: cache com **Redis**, fallback de provedores, otimização de resposta
+- Arquitetura modular para manutenção e evolução contínua
+- CI/CD e qualidade com pipelines e análise estática
+
+---
+
+## 🧩 Projetos que demonstram isso
+
+### 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API)
+API pública de conversão de moedas com FastAPI, cache (Redis/memória), histórico e fallback automático de provedores.  
+**Valor de negócio:** alta disponibilidade e resposta rápida para integrações financeiras.
+
+### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
+Template backend com foco em segurança para acelerar novos produtos SaaS.  
+Inclui CSRF, RBAC, JWT httpOnly, validação e pipeline CI com CodeQL.  
+**Valor de negócio:** reduz risco técnico e acelera time-to-market.
+
+### 🛒 [Terabyte-Deals-Api](https://github.com/CaioXDeveloper/Terabyte-Deals-Api)
+API de promoções com scraping ao vivo e saída JSON para automações.  
+**Valor de negócio:** captura de oportunidades em tempo real para operação/comercial.
+
+### 🔔 [pwa-push-vendas](https://github.com/CaioXDeveloper/pwa-push-vendas)
+PWA de notificações push com backend Node/Express e frontend modular.  
+**Valor de negócio:** melhora comunicação operacional e velocidade de ação da equipe.
+
+---
+
+## ⚙️ Stack
 
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br/>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastify" /><br/>Fastify</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br/>FastAPI</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
@@ -53,32 +82,16 @@ Curto construir software que resolve problema real — não só projeto de vitri
 
 ---
 
-## 🧩 Projetos em destaque
+## 🤝 Aberto para
 
-### 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API)
-API pública de conversão de moedas com **FastAPI**, documentação Swagger, cache (**Redis/memória**), histórico e fallback automático de provedores.
-
-### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
-Starter backend com **Fastify + TypeScript** focado em produção: **CSRF, RBAC, JWT httpOnly, validação** e pipeline CI com **CodeQL**.
-
-### 🛒 [Terabyte-Deals-Api](https://github.com/CaioXDeveloper/Terabyte-Deals-Api)
-API em FastAPI para promoções com scraping ao vivo e saída JSON para consumo por bots, dashboards ou automações.
-
-### 🔔 [pwa-push-vendas](https://github.com/CaioXDeveloper/pwa-push-vendas)
-PWA para ativar, testar e gerenciar notificações push de vendas com backend **Node.js/Express** e frontend modular.
+- Freelance e consultoria backend
+- Construção/reestruturação de APIs de SaaS
+- Automações para operação e atendimento
+- Oportunidades CLT/PJ (backend engineer)
 
 ---
 
-## 🚀 O que você encontra aqui
-
-- APIs seguras para produção
-- Boas práticas de arquitetura backend
-- Automações e integrações para negócio
-- Projetos aplicáveis a SaaS e operações B2B
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true" />
@@ -97,26 +110,30 @@ PWA para ativar, testar e gerenciar notificações push de vendas com backend **
 
 ## 🇺🇸 EN
 
-## 👋 About me
+## 🚀 Value proposition
 
-I’m **CaioX**, a backend-focused developer specialized in **Node.js, Fastify, Python/FastAPI, security, and automation**.
+I’m **CaioX**, a backend developer focused on production-grade APIs and business automation.  
+I work on **B2B SaaS** and internal platforms to help companies:
 
-I’ve worked on **SaaS B2B projects**, APIs, and internal systems with emphasis on:
-- clean and scalable architecture
-- security-first foundations (JWT, CSRF, RBAC, hardening)
-- performance and observability
-- business workflow automation
+- reduce manual operations
+- standardize critical workflows
+- improve operational predictability
+- scale with secure architecture
 
-I focus on building software that solves real problems in production.
+## 🧠 Core strengths
 
----
+- Production APIs with **Node.js/Fastify** and **Python/FastAPI**
+- Security-first approach: **JWT httpOnly, CSRF, RBAC, validation, hardening**
+- Performance with **Redis caching**, provider fallback, and response optimization
+- Modular architecture for long-term maintainability
+- CI/CD and code quality pipelines
 
-## 🧩 Featured repositories
+## 🤝 Open to
 
-- 💱 [Currency-API](https://github.com/CaioXDeveloper/Currency-API) — Public currency conversion API (FastAPI) with Swagger, caching, provider fallback, and history.
-- 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter) — Production-ready Fastify starter with security-first architecture.
-- 🛒 [Terabyte-Deals-Api](https://github.com/CaioXDeveloper/Terabyte-Deals-Api) — FastAPI deals API with live scraping and JSON output.
-- 🔔 [pwa-push-vendas](https://github.com/CaioXDeveloper/pwa-push-vendas) — Push notifications PWA with Node/Express backend and modular frontend.
+- Freelance and backend consulting
+- B2B SaaS API architecture/build
+- Operational automation systems
+- Backend engineer opportunities (remote/PJ/CLT)
 
 ---
 
