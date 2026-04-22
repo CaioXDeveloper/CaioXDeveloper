@@ -53,7 +53,7 @@ Inclui CSRF, RBAC, JWT httpOnly, validação e pipeline CI com CodeQL.
 API de promoções com scraping ao vivo e saída JSON para automações.  
 **Valor de negócio:** captura de oportunidades em tempo real para operação/comercial.
 
-### 🔔 [pwa-push-vendas](https://github.com/CaioXDeveloper/pwa-push-vendas)
+### 🔔 [pwa-push-vendas](https://github.com/CaioXDeveloper/pwa-push-sales)
 PWA de notificações push com backend Node/Express e frontend modular.  
 **Valor de negócio:** melhora comunicação operacional e velocidade de ação da equipe.
 
