@@ -1,164 +1,111 @@
 <div align="center">
 
-# CaioX
+# Caio Henrique
 
-### Full Stack Developer · Premium UX · Production Architecture
+### Full-Stack · Next.js · Node · Produtos em produção
 
-[![GitHub followers](https://img.shields.io/github/followers/CaioXDeveloper?style=social)](https://github.com/CaioXDeveloper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-port--caiox.vercel.app-22D3EE?style=flat-square)](https://port-caiox.vercel.app/)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)](#)
-[![Location](https://img.shields.io/badge/Based%20in-Brazil-yellow?style=flat-square)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-port--caiox.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://port-caiox.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-CaioXDeveloper-181717?style=flat-square&logo=github)](https://github.com/CaioXDeveloper)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1204440643271786560)
+[![Location](https://img.shields.io/badge/Brasil-Remoto-f59e0b?style=flat-square)](https://port-caiox.vercel.app/)
 
-**EN** · I build end-to-end digital products and B2B SaaS where premium aesthetics meet production-grade engineering.  
-**PT** · Construo produtos digitais ponta a ponta e SaaS B2B unindo estética premium e engenharia de produção.
+**EN** · Full-stack developer shipping web products end-to-end: clear UI, solid APIs, and code that stays maintainable in production.  
+**PT** · Desenvolvedor full-stack que entrega produto de ponta a ponta: interface clara, API estável e código que aguenta produção.
+
+[**→ Ver portfólio**](https://port-caiox.vercel.app/) · [**Contato / WhatsApp**](https://port-caiox.vercel.app/#contato)
 
 </div>
 
 ---
 
-## 🇺🇸 EN — Value proposition
+## Sobre · About
 
-I'm **CaioX**, a **Full Stack Developer** focused on **high-end user experiences** and **production-ready architecture**.
+Sou o **Caio** (**CaioX**). Atuo com freela e projetos fechados: bots, lojas, painéis e APIs.
 
-- 🎨 Turn complex requirements into **polished, high-conversion interfaces**
-- ⚡ Cut manual operations by **60–80%** with full-stack automation
-- 🔒 Ship with **secure, modular architecture** — from database to frontend
-- 🤖 Integrate **AI features** (LLMs, contextual chat, smart workflows) into real products
+Trabalho de ponta a ponta - do layout e fluxo do usuário até auth, banco e deploy. Prefiro escopo honesto, comunicação direta e entrega que funciona no dia a dia, não só no demo.
 
----
-
-## 🇧🇷 PT-BR — Proposta de valor
-
-Sou o **CaioX**, **Desenvolvedor Full Stack** com foco em **UX de alto nível** e **arquitetura pronta para produção**.
-
-- 🎨 Transformo requisitos complexos em **interfaces refinadas e de alta conversão**
-- ⚡ Reduzo operações manuais em **60–80%** com automação full-stack
-- 🔒 Escala com **arquitetura modular e segura** — do banco de dados ao frontend
-- 🤖 Integro **recursos de IA** (LLMs, chat contextual, fluxos inteligentes) em produtos reais
+**EN** · I freelanced on bots, stores, dashboards, and APIs. End-to-end from UI to auth, data, and deploy - clear scope, direct communication, production-minded delivery.
 
 ---
 
-## 🧠 Core strengths · Principais competências
+## O que eu construo · What I build
 
-| Area | Stack & practices |
-|------|-------------------|
-| **Frontend** | Next.js 14, React, Framer Motion, Tailwind CSS, vanilla JS |
-| **Backend** | Node.js (Express, Fastify), Python (FastAPI) |
-| **AI & automation** | Google Gemini, contextual chat, API orchestration |
-| **Security** | JWT httpOnly, CSRF, RBAC, input validation, API hardening |
-| **Performance** | Redis caching, Lenis smooth scroll, sub-100ms API targets |
-| **DevOps** | CI/CD, CodeQL, Docker, GitHub Actions |
+| Foco | Exemplos |
+|------|----------|
+| **Produto web full-stack** | E-commerce, painéis, auth, checkout |
+| **Bots & automação** | Discord (tickets, OAuth2, IA), integrações |
+| **APIs** | Fastify/Node, contratos claros, webhooks |
+| **Landing & conversão** | Sites comerciais com CTA e prova social |
 
 ---
 
-## 📊 By the numbers · Em números
+## Stack principal
 
-| Metric · Métrica | Value · Valor |
-|------------------|---------------|
-| **Full-Stack Projects** | 7+ |
-| **GitHub Contributions** | 150+ (last year) |
-| **Tech Stack Skills** | 15+ |
-| **Primary Frameworks** | Next.js, Express, Fastify, FastAPI |
-| **Databases** | PostgreSQL, MongoDB, Redis |
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Motion  
+**Backend:** Node.js · Fastify · REST · auth (HttpOnly cookies, CSRF)  
+**Dados & ops:** PostgreSQL · Redis (quando faz sentido) · Docker · Vercel  
 
----
-
-## 🧩 Featured projects · Projetos em destaque
-
-### 🪙 [dindin-finance](https://github.com/CaioXDeveloper/dindin-finance)
-**Personal finance + AI assistant** · Node.js · Express · PostgreSQL (Neon) · Google Gemini  
-✅ Expense tracking, dashboard with Chart.js, contextual AI chat in Portuguese  
-**PT:** Controle financeiro pessoal com chat inteligente que analisa gastos e gera relatórios em tempo real.
+```text
+Next.js / React  ·  TypeScript  ·  Tailwind
+Node / Fastify   ·  Auth & APIs ·  Postgres
+Discord bots     ·  Automação   ·  Deploy
+```
 
 ---
 
-### 👟 [AXIS-Commerce](https://github.com/CaioXDeveloper/AXIS-Commerce)
-**High-end sneaker store** · Next.js 14 · Framer Motion · Zustand · Tailwind  
-✅ Premium UX: custom cursors, Lenis smooth scroll, fluid animations  
-✅ Full-stack cart, filtering, and responsive design  
-**PT:** Loja de sneakers premium com UX de alto nível e arquitetura moderna.
+## Projetos em destaque · Featured work
+
+Cases com contexto e screenshots no portfólio:
+
+| Projeto | O que é | Stack |
+|---------|---------|--------|
+| **[Noturno Store](https://port-caiox.vercel.app/projetos/noturno-store)** | E-commerce full-stack (catálogo, carrinho, checkout, admin, auth) | Next.js 16 · React 19 · Fastify · Tailwind |
+| **[Bot OAuth2 + Ticket](https://port-caiox.vercel.app/projetos/nxndo-oauth-ticket)** | Bot Discord: recuperação de membros, tickets com IA, logs | Node · TypeScript · Discord.js · Fastify |
+| **[Souza Vendas](https://port-caiox.vercel.app/projetos/souza-vendas)** | Landing comercial de conversão + auth | Next.js · React · Tailwind · Motion |
+| **[AutoRoblox](https://port-caiox.vercel.app/projetos/autoroblox)** | Sistema de criação automática de contas + control room | Node · Puppeteer · API Roblox · dashboard |
+
+> Repos públicos adicionais no perfil; o detalhe de produto e UI está em [port-caiox.vercel.app](https://port-caiox.vercel.app/).
 
 ---
 
-### 🚨 [fraud-signals-api](https://github.com/CaioXDeveloper/fraud-signals-api)
-**Real-time fraud scoring engine** · Fastify · TypeScript · PostgreSQL · Redis  
-✅ Dual auth (JWT + API keys) · Sub-50ms scoring response time  
-**PT:** Engine de score de fraude em tempo real com alta performance e segurança reforçada.
+## Como trabalho · How I work
+
+1. **Escopo claro** - o que entra, o que fica de fora, prazo real  
+2. **Entrega em fatias** - demo cedo, feedback cedo  
+3. **Produção de verdade** - auth, erros, deploy previsível  
+4. **Comunicação direta** - Discord ou WhatsApp, sem sumir no meio  
+
+*Formato:* freela e projetos fechados (ainda sem CLT/PJ).
 
 ---
 
-### 🔐 [Fastify-Secure-Starter](https://github.com/CaioXDeveloper/Fastify-Secure-Starter)
-**Production-ready SaaS backend template** · TypeScript · Fastify · CodeQL  
-✅ CSRF, RBAC, JWT httpOnly cookies · CI/CD with security scanning  
-**PT:** Template SaaS focado em segurança máxima e deploy rápido.
+## Contato · Contact
+
+| | |
+|--|--|
+| **Portfolio** | [port-caiox.vercel.app](https://port-caiox.vercel.app/) |
+| **E-mail** | [caioxdeveloper@gmail.com](mailto:caioxdeveloper@gmail.com) |
+| **Discord** | [Perfil](https://discord.com/users/1204440643271786560) |
+| **WhatsApp** | Via [formulário no site](https://port-caiox.vercel.app/#contato) (mensagem pronta) |
+| **GitHub** | [@CaioXDeveloper](https://github.com/CaioXDeveloper) |
 
 ---
 
-### 🔔 [pwa-push-sales](https://github.com/CaioXDeveloper/pwa-push-sales)
-**Web push notification system** · Node/Express · PWA · Real-time messaging  
-**PT:** Sistema de notificações push em tempo real com arquitetura PWA.
-
----
-
-## ⚙️ Stack
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastify" /><br/>Fastify</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br/>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" /><br/>Redis</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /><br/>Actions</td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
+## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioXDeveloper&theme=github_dark&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" alt="Top languages" />
 </p>
 
 ---
-
-## 🌐 Let's connect · Vamos conversar
 
 <div align="center">
 
-**[View Full Portfolio →](https://port-caiox.vercel.app/)**
+**Aberto a freela e projetos fechados** · Brasil / remoto  
 
-| Platform | Link |
-|----------|------|
-| 💻 GitHub | [github.com/CaioXDeveloper](https://github.com/CaioXDeveloper) |
-| 🌐 Portfolio | [port-caiox.vercel.app](https://port-caiox.vercel.app/) |
-| 💬 Discord | [discord.com/users/1204440643271786560](https://discord.com/users/1204440643271786560) |
+[port-caiox.vercel.app](https://port-caiox.vercel.app/)
+
+<sub>Clareza no escopo · Código que sobe · Comunicação sem drama</sub>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Premium%20UX-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-LLM%20Integration-8E75B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-22D3EE?style=flat-square" />
-</p>
-
-<p align="center">
-  <sub>Built with focus · Designed with intent · Shipped with care</sub><br/>
-  <sub>Feito com foco · Projetado com intenção · Entregue com cuidado</sub>
-</p>
