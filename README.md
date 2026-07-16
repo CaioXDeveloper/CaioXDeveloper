@@ -93,9 +93,18 @@ Cases com contexto e screenshots no portfólio:
 
 ## GitHub
 
+<!--
+  A API oficial github-readme-stats.vercel.app costuma retornar 503 (rate limit).
+  Usamos um mirror estável do mesmo projeto.
+-->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak" />
 </p>
 
 ---
