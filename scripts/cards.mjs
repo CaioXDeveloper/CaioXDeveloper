@@ -11,7 +11,7 @@ async function fetchData() {
   if (process.env.MOCK) return JSON.parse(readFileSync(process.env.MOCK, "utf8"));
   const query = `query($login:String!,$after:String){user(login:$login){
     name login followers{totalCount}
-    contributionsCollection{totalCommitContributions restrictedContributionsCount}
+    contributionsCollection{totalCommitContributions restrictedContributionsCount contributionCalendar{weeks{contributionDays{date contributionCount}}}}
     pullRequests{totalCount} issues{totalCount}
     repositories(first:100,after:$after,ownerAffiliations:OWNER,isFork:false){
       totalCount pageInfo{hasNextPage endCursor}
@@ -91,8 +91,38 @@ function langsCard(u, max = 8) {
   return frame(W, h, "Linguagens", `<clipPath id="r"><rect x="24" y="52" width="${barW}" height="8" rx="4"/></clipPath><g clip-path="url(#r)">${bar}</g>\n${items}`);
 }
 
+function activityCard(u, days = 31) {
+  const all = u.contributionsCollection.contributionCalendar.weeks.flatMap((w) => w.contributionDays);
+  const d = all.slice(-days);
+  const W = 900, H = 260, L = 50, R = 24, T = 60, B = 40;
+  const pw = W - L - R, ph = H - T - B;
+  const max = Math.max(4, ...d.map((x) => x.contributionCount));
+  const step = Math.ceil(max / 4);
+  const top = step * 4;
+  const X = (i) => L + (i / (d.length - 1)) * pw;
+  const Y = (v) => T + ph - (v / top) * ph;
+  const pts = d.map((x, i) => `${X(i).toFixed(1)},${Y(x.contributionCount).toFixed(1)}`);
+  const grid = [0, 1, 2, 3, 4].map((k) => {
+    const v = k * step, y = Y(v).toFixed(1);
+    return `<line x1="${L}" x2="${W - R}" y1="${y}" y2="${y}" stroke="${C.border}" stroke-dasharray="3 4"/>
+<text x="${L - 10}" y="${+y + 4}" font-size="11" fill="${C.muted}" text-anchor="end">${v}</text>`;
+  }).join("\n");
+  const labels = d.map((x, i) => (i % 5 === 0 || i === d.length - 1)
+    ? `<text x="${X(i).toFixed(1)}" y="${H - 16}" font-size="11" fill="${C.muted}" text-anchor="middle">${x.date.slice(8, 10)}/${x.date.slice(5, 7)}</text>` : "").join("");
+  const dots = d.map((x, i) => `<circle cx="${X(i).toFixed(1)}" cy="${Y(x.contributionCount).toFixed(1)}" r="3" fill="#ffffff"><title>${x.date}: ${x.contributionCount}</title></circle>`).join("");
+  const total = d.reduce((a, x) => a + x.contributionCount, 0);
+  const body = `<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${C.title}" stop-opacity=".35"/><stop offset="1" stop-color="${C.title}" stop-opacity="0"/></linearGradient></defs>
+<text x="${W - 24}" y="36" font-size="13" fill="${C.muted}" text-anchor="end">${total} contribuições em ${days} dias</text>
+${grid}
+<polygon points="${L},${Y(0)} ${pts.join(" ")} ${W - R},${Y(0)}" fill="url(#g)"/>
+<polyline points="${pts.join(" ")}" fill="none" stroke="${C.title}" stroke-width="2.5" stroke-linejoin="round"/>
+${dots}${labels}`;
+  return frame(W, H, "Atividade nos últimos dias", body);
+}
+
 const u = await fetchData();
 mkdirSync(OUT, { recursive: true });
 writeFileSync(`${OUT}/stats.svg`, statsCard(u));
 writeFileSync(`${OUT}/langs.svg`, langsCard(u));
+writeFileSync(`${OUT}/activity.svg`, activityCard(u));
 console.log("cards gerados");
