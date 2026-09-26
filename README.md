@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" width="340" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img align="right" width="340" src="./cards/stats.svg" alt="stats" />
 
 ### Oi, eu sou o Caio
 
@@ -108,8 +108,7 @@ Por enquanto trabalho só com freela e projeto fechado, sem CLT ou PJ.
 
 <div align="center">
 
-<img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos por linguagem" />
-<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="linguagens mais usadas" />
+<img src="./cards/langs.svg" alt="linguagens" />
 
 <img src="https://streak-stats.demolab.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" alt="streak" />
 
