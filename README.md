@@ -112,7 +112,7 @@ Por enquanto trabalho só com freela e projeto fechado, sem CLT ou PJ.
 
 <img src="https://streak-stats.demolab.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" alt="streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioXDeveloper&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Commits%20nos%20%C3%BAltimos%20dias" alt="gráfico de atividade" />
+<img width="100%" src="./cards/activity.svg" alt="gráfico de atividade" />
 
 <br/>
 
