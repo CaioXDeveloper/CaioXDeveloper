@@ -11,7 +11,6 @@
 <a href="https://port-caiox.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-port--caiox.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://discord.com/users/1204440643271786560"><img src="https://img.shields.io/badge/Discord-me%20chama-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:caioxdeveloper@gmail.com"><img src="https://img.shields.io/badge/E--mail-caioxdeveloper-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://port-caiox.vercel.app/#contato"><img src="https://img.shields.io/badge/WhatsApp-pelo%20site-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=CaioXDeveloper&label=visitas&color=0ea5e9&style=flat-square" alt="visitas" />
 
@@ -19,7 +18,7 @@
 
 <br/>
 
-<img align="right" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioXDeveloper&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117&hide_title=true&hide_rank=true" alt="stats" />
+<img align="right" width="340" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
 
 ### Oi, eu sou o Caio
 
@@ -101,7 +100,7 @@ Os prints e o contexto de cada um estão no [portfólio](https://port-caiox.verc
 
 ### Como costuma funcionar
 
-A gente fecha escopo e prazo primeiro. Depois eu mando uma versão rodando o quanto antes, pra você mexer, achar o que não gostou e me falar enquanto ainda é barato mudar, e o resto vai saindo em partes até a entrega. A conversa rola no Discord ou no WhatsApp, e eu não sumo no meio do projeto.
+A gente fecha escopo e prazo primeiro. Depois eu mando uma versão rodando o quanto antes, pra você mexer, achar o que não gostou e me falar enquanto ainda é barato mudar, e o resto vai saindo em partes até a entrega. A conversa rola pelo Discord ou por e-mail, e eu não sumo no meio do projeto.
 
 Por enquanto trabalho só com freela e projeto fechado, sem CLT ou PJ.
 
@@ -109,9 +108,10 @@ Por enquanto trabalho só com freela e projeto fechado, sem CLT ou PJ.
 
 <div align="center">
 
-<!-- A API oficial github-readme-stats.vercel.app vive dando 503 por rate limit, então uso um mirror do mesmo projeto. -->
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" alt="linguagens" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="streak" />
+<img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos por linguagem" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&locale=pt_BR" alt="streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioXDeveloper&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Commits%20nos%20%C3%BAltimos%20dias" alt="gráfico de atividade" />
 
