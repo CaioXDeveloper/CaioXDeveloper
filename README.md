@@ -10,7 +10,6 @@
 
 <a href="https://port-caiox.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-port--caiox.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://discord.com/users/1204440643271786560"><img src="https://img.shields.io/badge/Discord-message%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:caioxdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-caioxdeveloper-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=CaioXDeveloper&label=views&color=0ea5e9&style=flat-square" alt="profile views" />
 
@@ -52,8 +51,6 @@ Right now I only take freelance and fixed-scope work, no full-time or contractor
 ---
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak" />
 
 <img width="100%" src="https://ghchart.rshah.org/0ea5e9/CaioXDeveloper" alt="Contribution chart" />
 
