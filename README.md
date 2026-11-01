@@ -18,8 +18,6 @@
 
 <br/>
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=CaioXDeveloper&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="GitHub stats" />
-
 ### Hi, I'm Caio 🇧🇷
 
 I'm a **Brazilian** full-stack developer, known online as **CaioX**. Based in Brazil, working with clients worldwide. I speak **Portuguese (native)** and **English**.
@@ -27,8 +25,6 @@ I'm a **Brazilian** full-stack developer, known online as **CaioX**. Based in Br
 I take freelance and fixed-scope projects. Most of my work is Discord bots, online stores, admin dashboards and APIs.
 
 I like owning the whole project, from UI to server. One person handling layout, auth, database and deploy leaves far fewer loose ends. Before the first line of code, we agree on what's in, what's out, and a deadline that's actually realistic.
-
-<br clear="right"/>
 
 ---
 
@@ -47,17 +43,6 @@ Front end is almost always Next.js with Tailwind. On the back end I prefer Fasti
 
 ---
 
-### Featured project
-
-#### 🛒 [Noturno Store](https://port-caiox.vercel.app/projetos/noturno-store)
-Full e-commerce: catalog, cart, checkout, login, and an admin panel for store owners.
-
-`Next.js` `React` `Fastify` `Prisma` `PostgreSQL` `Tailwind`
-
-More projects, screenshots and context live in my [portfolio](https://port-caiox.vercel.app/). Public repositories are here on GitHub.
-
----
-
 ### How I work
 
 We lock scope and deadline first. Then I ship a running version as early as possible, so you can try it, spot what you dislike, and tell me while changes are still cheap. The rest arrives in iterations until delivery. We talk on Discord or email, and I don't disappear mid-project.
@@ -68,13 +53,9 @@ Right now I only take freelance and fixed-scope work, no full-time or contractor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioXDeveloper&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=CaioXDeveloper&theme=dark&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioXDeveloper&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="100%" src="https://ghchart.rshah.org/0ea5e9/CaioXDeveloper" alt="Contribution chart" />
 
 <br/>
 
